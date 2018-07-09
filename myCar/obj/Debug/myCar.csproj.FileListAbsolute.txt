@@ -1,0 +1,39 @@
+e:\users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\bin\Debug\myCar.exe.config
+e:\users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\bin\Debug\myCar.exe
+e:\users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\bin\Debug\myCar.pdb
+e:\users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.csprojResolveAssemblyReference.cache
+e:\users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.Form1.resources
+e:\users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.Properties.Resources.resources
+e:\users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.csproj.GenerateResource.Cache
+e:\users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.exe
+e:\users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.pdb
+e:\users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.Form2.resources
+e:\Users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.userchangewindow.resources
+e:\Users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.UserControl1.resources
+e:\Users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.MainMenu.Designer0.1.6.resources
+e:\Users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.MainMenu.resources
+e:\Users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.ListaWydarzeń.resources
+e:\Users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.Form3.resources
+e:\Users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.Dodaj_wydarzenie.resources
+e:\Users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.event_delete_komunikat.resources
+e:\Users\ruvaa\documents\visual studio 2015\Projects\myCar\myCar\obj\Debug\myCar.Dla_Daty_Listawydarzen.resources
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\bin\Debug\myCar.exe.config
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\bin\Debug\myCar.exe
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\bin\Debug\myCar.pdb
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.csprojResolveAssemblyReference.cache
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.Dla_Daty_Listawydarzen.resources
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.Dodaj_wydarzenie.resources
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.event_delete_komunikat.resources
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.Form1.resources
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.Form2.resources
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.Form3.resources
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.ListaWydarzeń.resources
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.MainMenu.resources
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.MainMenu.Designer0.1.6.resources
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.Properties.Resources.resources
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.userchangewindow.resources
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.UserControl1.resources
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.csproj.GenerateResource.cache
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.csproj.CoreCompileInputs.cache
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.exe
+D:\Storage Folder\Documents\!Dokumenty\Bartosz Baum\Studia\WSB 2016 Informatyka\1 Programowanie\myCar\myCar\myCar\obj\Debug\myCar.pdb
